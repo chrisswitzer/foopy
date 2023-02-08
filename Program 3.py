@@ -1,0 +1,5 @@
+print ("I'm")
+print ("\"learning\"")
+print ("\\Python\\")
+print ("Hello! My name is: \nChris")
+print ("name: Chris \t address: 9442 Fernwood Drive\t city: Olmsted Falls\t state: Ohio \t zip: 44138")
